@@ -1,31 +1,30 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/vince-mono-dark.svg" /><img src="./assets/vince-mono-light.svg" alt="Vince — independent builder. I build creative tools and the systems that power agents." width="100%" /></picture>
+# Hi, I'm Vince 👋
 
-<p><a href="https://www.hivince.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/blog-dark.svg" /><img src="./assets/profile/blog-light.svg" alt="Blog ↗" width="80" /></picture></a> &nbsp; <a href="https://x.com/hi__vince"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/social-dark.svg" /><img src="./assets/profile/social-light.svg" alt="X / @hi__vince ↗" width="183" /></picture></a></p>
+🚀 Independent builder | 🤖 AI agents & creative tools
 
-I build **AI-powered tools for creating and getting things done** — from images and films to agent-powered workspaces. I also open-source the systems behind better agent workflows, and write about what I learn along the way.
+> I build AI products that help people create and get things done, and open-source tools for building more reliable agents.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/products-dark.svg" /><img src="./assets/profile/products-light.svg" alt="01 / Products — Selected work" width="100%" /></picture>
+🔗 [hivince.com](https://www.hivince.com) — Notes on AI agents, product building, and life.
 
-<p>
-<a href="https://flowpix.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/flowpix-dark.svg" /><img src="./assets/profile/flowpix-light.svg" alt="FlowPix — An agentic canvas for images, video, and visual ideas." width="100%" /></picture></a><br />
-<a href="https://uooki.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/uooki-dark.svg" /><img src="./assets/profile/uooki-light.svg" alt="uooki — Turn a conversation into a website, report, dashboard, or deck." width="100%" /></picture></a><br />
-<a href="https://reelfo.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/reelfo-dark.svg" /><img src="./assets/profile/reelfo-light.svg" alt="reelfo — From one line to a short film: script, cast, storyboard, and cut." width="100%" /></picture></a><br />
-</p>
+## Products
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/open-source-dark.svg" /><img src="./assets/profile/open-source-light.svg" alt="02 / Open source" width="100%" /></picture>
+- 🎨 [FlowPix](https://flowpix.ai) — An agentic canvas for creating images and videos.
+- 💡 [uooki](https://uooki.com) — Turn a conversation into a website, report, dashboard, or presentation.
+- 🎬 [reelfo](https://reelfo.com) — Turn an idea into a short film, from script to final cut.
 
-<p>
-<a href="https://github.com/vincemakes/kiso"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/kiso-dark.svg" /><img src="./assets/profile/kiso-light.svg" alt="kiso — A small, durable TypeScript core for agents that pause and resume." width="100%" /></picture></a><br />
-<a href="https://github.com/vincemakes/model-boss"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/model-boss-dark.svg" /><img src="./assets/profile/model-boss-light.svg" alt="Model Boss — Big models think. Small models ship. For Claude Code &amp; Codex." width="100%" /></picture></a><br />
-</p>
+## Open Source
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/notes-dark.svg" /><img src="./assets/profile/notes-light.svg" alt="03 / Field notes" width="100%" /></picture>
+- 🧩 [kiso](https://github.com/vincemakes/kiso) — A small, durable TypeScript core for agents that pause and resume. ([Website](https://kiso.work))
+- 🛠️ [Model Boss](https://github.com/vincemakes/model-boss) — Cross-model orchestration for Claude Code and Codex. Big models think; small models ship.
 
-<p>
-<a href="https://www.hivince.com/en/blog/the-agent-microkernel-notes-from-thinking-and-building"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/microkernel-dark.svg" /><img src="./assets/profile/microkernel-light.svg" alt="The Agent Microkernel: Notes from Thinking and Building ↗" width="49%" /></picture></a>
-<a href="https://www.hivince.com/en/blog/harness-engineering"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/harness-dark.svg" /><img src="./assets/profile/harness-light.svg" alt="From “Rower” to “Steersman”: Harness Engineering in the AI Era ↗" width="49%" /></picture></a>
-</p>
+## Writing
 
-<a href="https://www.hivince.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/more-notes-dark.svg" /><img src="./assets/profile/more-notes-light.svg" alt="More on hivince.com ↗" width="245" /></picture></a>
+- [The Agent Microkernel: Notes from Thinking and Building](https://www.hivince.com/en/blog/the-agent-microkernel-notes-from-thinking-and-building)
+- [From “Rower” to “Steersman”: Harness Engineering in the AI Era](https://www.hivince.com/en/blog/harness-engineering)
+- [More on hivince.com →](https://www.hivince.com)
 
-<a href="https://kiso.work"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile/footer-dark.svg" /><img src="./assets/profile/footer-light.svg" alt="Build. Learn. Iterate. Explore kiso.work." width="100%" /></picture></a>
+## Connect
+
+- 🐦 X: [@hi__vince](https://x.com/hi__vince)
+- 💻 GitHub: [@vincemakes](https://github.com/vincemakes)
+- 🌐 Blog: [hivince.com](https://www.hivince.com)
