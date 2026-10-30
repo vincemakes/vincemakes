@@ -26,5 +26,6 @@
 ## Connect
 
 - 🐦 X: [@hi__vince](https://x.com/hi__vince)
+- 📺 Bilibili: [Vince](https://space.bilibili.com/275897366)
 - 💻 GitHub: [@vincemakes](https://github.com/vincemakes)
 - 🌐 Blog: [hivince.com](https://www.hivince.com)
